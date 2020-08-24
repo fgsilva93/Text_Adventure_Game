@@ -1,0 +1,1 @@
+This is a small basic project that is a text adventure game using python.
